@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **python**
 
-- 💬 Ask me about **Android, java, sql, firebase**
+- 💬 Ask me about **Android, java, nodejs, mongodb, firebase**
 
 - 📫 How to reach me **zineeddine.boumrar@gmail.com**
 
