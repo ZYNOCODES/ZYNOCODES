@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zine eddine Boumrar</h1>
 <h3 align="center">A passionate Backend developer from Algeria 🇩🇿</h3>
-[![](https://raw.githubusercontent.com/tothepointcode/github-profile-summary/master/profile-summary-card-output/github_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zynocodes&label=Profile%20views&color=0e75b6&style=flat" alt="zynocodes" /> </p>
 
 <p align="left"> <a href="https://twitter.com/zynocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zynocodes?logo=twitter&style=for-the-badge" alt="zynocodes" /></a> </p>
