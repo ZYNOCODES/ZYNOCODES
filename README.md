@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/zynocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zynocodes?logo=twitter&style=for-the-badge" alt="zynocodes" /></a> </p>
 
-- 🔭 I’m currently working on [CoinCountDZ](https://github.com/ZYNOCODES/CoinCountDZ)
+- 🔭 I’m currently working on [CoinCountDZ](https://github.com/ZYNOCODES/MOSAGRO-Server-Side)
 
-- 🌱 I’m currently learning **Nest.js**
+- 🌱 I’m currently learning **DEEP LEARNING**
 
-- 💬 Ask me about **Node.js, JAVA, mySQL, Mongodb**
+- 💬 Ask me about **NODE.JS, EXPRESS, mySQL, Mongodb**
 
 - 📫 How to reach me **zineeddine.boumrar@gmail.com**
 
