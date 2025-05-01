@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zynocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zynocodes?logo=twitter&style=for-the-badge" alt="zynocodes" /></a> </p>
 
-- 🔭 I’m currently working on [CoinCountDZ](https://github.com/ZYNOCODES/MOSAGRO-Server-Side)
+- 🔭 I’m currently working on [MOSAGRO](https://github.com/ZYNOCODES/MOSAGRO-Server-Side)
 
 - 🌱 I’m currently learning **DEEP LEARNING**
 
