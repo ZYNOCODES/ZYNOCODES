@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/zynocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zynocodes?logo=twitter&style=for-the-badge" alt="zynocodes" /></a> </p>
 
-- 🔭 I’m currently working on [MOSAGRO](https://github.com/ZYNOCODES/MOSAGRO-Server-Side)
+- 🔭 I’m currently working on Manufacturing Execution System (MES) for a television manufacturer
 
-- 🌱 I’m currently learning **DEEP LEARNING**
+- 🌱 I’m currently learning **FEDERATED LEARNING**
 
-- 💬 Ask me about **NODE.JS, EXPRESS, mySQL, Mongodb**
+- 💬 Ask me about **NODE.JS, EXPRESS, Postgresql, Mongodb**
 
 - 📫 How to reach me **zineeddine.boumrar@gmail.com**
 
