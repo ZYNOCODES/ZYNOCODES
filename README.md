@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/zynocodes" target="blank"><img src="https://img.shields.io/twitter/follow/zynocodes?logo=twitter&style=for-the-badge" alt="zynocodes" /></a> </p>
 
-- 🔭 I’m currently working on Manufacturing Execution System (MES) for a television manufacturer
+- 🔭 I’m currently working on **Manufacturing Execution System (MES) for a television manufacturer**
 
 - 🌱 I’m currently learning **FEDERATED LEARNING**
 
